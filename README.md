@@ -1,5 +1,7 @@
 # BrightBiteCare - Dental Clinic Web Application
 
+💼 Freelance Project | Commissioned Work
+
 BrightBiteCare is a web application designed for a dental clinic. It allows patients to manage their appointments, learn about the services offered, browse and purchase dental products, and contact the clinic. The system also includes an administrative interface for managing clinic operations.
 
 ## Features
