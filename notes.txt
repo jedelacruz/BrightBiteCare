@@ -1,0 +1,15 @@
+it needs a backend w php and mysql
+
+
+- website has home(index.php), about, services, products, gallery, contact
+- make the header, footer, db includes
+- working post a feedback w stars and textarea to comment
+- register and login as a user
+- working send a message
+- admin dashboard where he/she can see all interactions
+- book services
+- buy products
+- if user not logged in he cant do all
+
+
+i already have the 
